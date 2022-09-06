@@ -1,3 +1,5 @@
+# License: BSD 3 clause
+
 import tensorly as tl
 tl.set_backend('pytorch')
 from torch import randn, cos, sin, float32, complex64, exp
